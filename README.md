@@ -1,4 +1,4 @@
-### 👋👨‍    💻 Hi! I'm Brennan - a Software Engineer in Brooklyn, NY
+### 👋👨‍💻     Hi! I'm Brennan - a Software Engineer in Brooklyn, NY
  - 🛍     I work on the Product + Engineering team at <a href="https://www.mikmak.tv/home" target="blank">MikMak</a>, an enterprise marketing eCommerce platform.
  - 📚     I’m currently learning Python 🐍 and Linux 🐧.
 
