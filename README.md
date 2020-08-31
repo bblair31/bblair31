@@ -1,7 +1,6 @@
 ###
 👋👨‍💻 &nbsp; Hi! I'm Brennan - a Software Engineer in Brooklyn, NY
- - 🛍 &nbsp; I work on the Product + Engineering team at <a href="https://www.mikmak.tv/home" target="blank">MikMak</a>, an enterprise marketing eCommerce platform
- - 📚 &nbsp; I’m currently learning Python 🐍 and Linux 🐧.
+ - 🛍 &nbsp; I'm part of the Product + Engineering team at <a href="https://www.mikmak.tv/home" target="blank">MikMak</a>, an enterprise marketing eCommerce platform
 
 <!--
 **bblair31/bblair31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
